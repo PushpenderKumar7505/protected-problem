@@ -14,7 +14,7 @@ public class Demo01 {
         num2 = sc.nextInt();
 
     }
- public void 
+ public void display()
  {
      System.out.printf(num1 +" "+num2);
  }
